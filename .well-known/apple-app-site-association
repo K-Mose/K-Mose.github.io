@@ -1,12 +1,20 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
     {
       "appIDs": ["3T29P4SY36.com.brandocean.heartfield"],
-      "paths": [*]
+      "paths": [
+        "*"
+      ],
+      "components": [
+        {
+          "/": "/*"
+        }
+      ]
     },
     "webcredentials": {
-      "apps": [ "ABCDE12345.com.example.app" ]
+      "apps": ["3T29P4SY36.com.brandocean.heartfield"]
     }
   }
 }
