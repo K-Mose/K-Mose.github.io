@@ -2,19 +2,24 @@
   "applinks": {
     "apps": [],
     "details": [
-    {
-      "appIDs": ["3T29P4SY36.com.brandocean.heartfield"],
-      "paths": [
-        "*"
-      ],
-      "components": [
-        {
-          "/": "/*"
-        }
-      ]
-    },
-    "webcredentials": {
-      "apps": ["3T29P4SY36.com.brandocean.heartfield"]
-    }
+      {
+        "appIDs": [
+          "3T29P4SY36.com.brandocean.heartfield"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3T29P4SY36.com.brandocean.heartfield"
+    ]
   }
 }
