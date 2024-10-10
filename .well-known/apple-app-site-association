@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "3T29P4SY36.com.brandocean.heartfield",
+        "appID": "3T29P4SY36.com.brandocean.heartfield",
         "paths": ["*"]
       }
     ]
