@@ -3,23 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "3T29P4SY36.com.brandocean.heartfield"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/mobile/*"
-          }
-        ]
+        "appIDs": "3T29P4SY36.com.brandocean.heartfield",
+        "paths": ["*"]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "3T29P4SY36.com.brandocean.heartfield"
     ]
   }
 }
